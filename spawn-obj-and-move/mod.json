@@ -1,0 +1,13 @@
+{
+	"Name": "Spawn object and move",
+	"Authors": ["Amphiii"],
+	"Description": "Works on MP_Subway (Metro) on Conquest Small - Look in US Spawn",
+	"URL": "",
+    "Tags": [],
+	"Version": "0.1.0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true,
+	"Dependencies": {
+		"veniceext": "^1.0.0"
+	}
+}
